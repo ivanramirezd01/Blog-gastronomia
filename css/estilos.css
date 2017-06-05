@@ -1,0 +1,53 @@
+.fondo{
+  background: url(../image/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+  color: red;
+}
+.eslogan{
+  margin-left: 20%;
+}
+
+.fila1-row{
+  background: white;
+}
+
+.columna1{
+  background: white;
+}
+
+.menu{
+  margin-left: 10%;
+}
+
+.favoritos-row{
+padding-bottom: 5%;
+padding-top: 3%;
+}
+.favorito{
+border: 1px solid brown;
+}
+
+.historia-row{
+  padding-left: 10%;
+  padding-top: 10%;
+  background: brown;
+  color: white;
+}
+.columna2{
+  background: white;
+}
+
+.usuario{
+  width: 50%;
+  margin-top: 20%;
+}
+
+.boton-row{
+padding-left: 90%;
+}
